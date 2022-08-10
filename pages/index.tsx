@@ -8,7 +8,7 @@ export default function Home() {
     <>
       <Head>
         <title>Web-App</title>
-        <meta name='title' content='PIE' />
+        <meta name='title' content='Web-app' />
         <meta name='description' content='THIS IS A DESCRIPTION' />
         <meta name='keywords' content='THIS IS A CONTENT' />
         <meta property='og:type' content='website' />
