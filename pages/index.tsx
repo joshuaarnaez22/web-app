@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Web-app</title>
+        <title>Web-application</title>
         <meta name='description' content='Sort description of your website' />
         <meta name='keywords' content='keyword1,keyword2,...' />
         <meta name='og:title' property='og:title' content='Your Open Graph Title' />
