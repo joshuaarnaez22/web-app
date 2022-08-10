@@ -1,18 +1,17 @@
-import type { ReactElement } from 'react';
+// import type { ReactElement } from 'react';
 import Login from '@/components/Login';
-import Layout from '@/components/Layout';
-import { Head } from 'next/document';
+import Head from 'next/head';
+// import Layout from '@/components/Layout';
 
 export default function Home() {
   return (
     <>
       <Head>
-        <title>Web-application</title>
-        <meta name='description' content='Sort description of your website' />
-        <meta name='keywords' content='keyword1,keyword2,...' />
-        <meta name='og:title' property='og:title' content='Your Open Graph Title' />
-        <meta name='robots' content='index, follow' />
-        <link href='URL' rel='canonical' />
+        <title>Web-App</title>
+        <meta name='title' content='PIE' />
+        <meta name='description' content='THIS IS A DESCRIPTION' />
+        <meta name='keywords' content='THIS IS A CONTENT' />
+        <meta property='og:type' content='website' />
       </Head>
       <Login />
     </>
