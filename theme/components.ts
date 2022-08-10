@@ -38,10 +38,10 @@ const Button: ComponentStyleConfig = {
   },
 };
 
-const Text :ComponentStyleConfig = {
-    baseStyle: {
-      fontWeight: 'bold',
-      FontSize: 'Body.xs',
-    },
-}
+const Text: ComponentStyleConfig = {
+  baseStyle: {
+    fontWeight: 'bold',
+    FontSize: 'Body.xs',
+  },
+};
 export default { Button, Text };

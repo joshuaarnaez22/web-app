@@ -1,1 +1,0 @@
-//where we add type of interface that can be used for typescript type checking
